@@ -1,27 +1,36 @@
-# MyPoProject
+<h1 align="center">
+    Primeiro Projeto com PO-UI <br />
+</h1>
+<h1 align="center">
+  <img alt="Portinari" src="https://github.com/po-ui/po-angular/raw/master/docs/assets/po-logos/po_color_bg.svg" width="200px" height="200px">
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
+<p align="center">	
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/yuripalacio/po-ui">
 
-## Development server
+  <a href="https://www.linkedin.com/in/yuripalacio/">
+    <img alt="Made by yuripalacio" src="https://img.shields.io/badge/made%20by-Yuri%20Palacio-%2304D361">
+  </a>
+  
+  <a href="https://github.com/yuripalacio/po-ui/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/yuripalacio/po-ui">
+  </a>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<p align="center">
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#po-ui">PO-UI</a>
+</p>
 
-## Code scaffolding
+# Sobre
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Projeto criado com o objetivo de entender o básico do funcionamento e utilizaço do PO-UI.
 
-## Build
+<h1 align="center">
+    <img alt="main" title="#Main" src=".github/main.png" width="600px" />
+</h1>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## PO-UI
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+O PO-UI é uma biblioteca de componentes da TOTVS.
+Para mais informações acesse [PO-UI](https://po-ui.io/)
